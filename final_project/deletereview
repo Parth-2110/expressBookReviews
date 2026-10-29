@@ -1,0 +1,2 @@
+Command: DELETE /customer/auth/review/1
+{"message":"Review deleted successfully"}

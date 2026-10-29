@@ -1,0 +1,2 @@
+Command: POST /register
+{"message":"User already exists"}

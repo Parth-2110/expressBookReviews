@@ -1,0 +1,2 @@
+Command: POST /customer/login
+{"message":"Login successful","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InN0dWRlbnQzIiwiaWF0IjoxNzkzMjkwNDMyLCJleHAiOjE3OTMyOTQwMzJ9.wWgG57415Tydd35qj1BSBbWB4ylddihW01Q9rDQwasE"}
